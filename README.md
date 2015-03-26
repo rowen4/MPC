@@ -1,0 +1,2 @@
+# MPC
+McMaster Programming Challenge
