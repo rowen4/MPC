@@ -1,0 +1,35 @@
+#########################################
+1
+#########################################
+Input:
+04 CF 4B 33 9A 7E 90 1B
+RIoVW8TpNJhV4qx1mqlEe/fHfPo1ZrV1QQ7y/uLx7ZIfPCccPx264rRMuNBelwB3
+Output:
+The quick brown fox jumped over the lazy dog
+#########################################
+2
+#########################################
+Input:
+90 A1 D2 5C 3F 08 77 6B
+A2p7nrkbDr/YF1pCHSvfTu50ymXIePG6KxVVt/LipHH5Y3lItrWbAi51NxqSSi6E
+Output:
+Andrew smells like cheese
+#########################################
+3
+#########################################
+Input:
+6F 2D CC AA 08 00 B2 45
+6qvAQ31rOievWuQx/NP9HyqXXff6+gOc9HcFax/jx4OMJ07ucgp4Hf03aOsdp5+m17eJWihxPSe8XeRir9P9WGuNUbbhtE2U+zIRORPozZSMJ07ucgp4Hf03aOsdp5+mzazEVX1yLGirXuQx/MjyCn6GUbb9swOe63wQaxP5g57pU26FHGUPdJNQSJx1xuumnqrdECpjOg3bMoERj7yTeArjNZaO2m35ghJ3S3qNo/CGJ07ucgp4Hf03aOsdp5+m363NEClqLH78Xu0x7NP9DGONQPOuqQSX5XsZLFrk19DgSDyLBG8KPZdCG589xfqm3aLcQzgCSQfbMoERj7yTeArjNZaO2m35ghJ3S3qNo/CGJ07ucgp4Hf03aOsdp5+m
+Ouptut:
+This is the song that never ends                                                                                                                                                                                                              
+it just goes on and on my friend                                                                                                                                                                                                              
+some people started singing it not knowing what it was                                                                                                                                                                                        
+and they'll continue singing it forever just because
+#########################################
+Example Case
+#########################################
+Input:
+B2 33 7C 8D 9F 2A 1E 63
+hkzDD4VQ3mZUM2BF4Qla3OpyvDXLX+mdCFywUw8alvPIRkKv3pe/rWR9JgjF6yrw
+Output:
+McMaster Programming Challenge Rules
